@@ -2,3 +2,4 @@ python-telegram-bot
 Pillow
 pytesseract
 pandas
+flask
